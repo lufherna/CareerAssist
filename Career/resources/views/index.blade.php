@@ -6,9 +6,15 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="../../public/assets/css/main.css" />
+		<link href = "http://localhost:8000/assets/css/main.css" rel = 'stylesheet' type = 'text/css'/>
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!-- Scripts -->
+		<script src="http://localhost:8000/assets/js/jquery.min.js"></script>
+		<script src="http://localhost:8000/assets/js/skel.min.js"></script>
+		<script src="http://localhost:8000/assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="http://localhost:8000/assets/js/main.js"></script>
 	</head>
 	<body>
 
@@ -240,12 +246,6 @@
 
 			</div>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
-
+		
 	</body>
 </html>
