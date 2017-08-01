@@ -6,15 +6,15 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link href = "http://localhost:8000/assets/css/main.css" rel = 'stylesheet' type = 'text/css'/>
+		<link href="{{ asset('assets/css/main.css') }}" rel="stylesheet">
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!-- Scripts -->
-		<script src="http://localhost:8000/assets/js/jquery.min.js"></script>
-		<script src="http://localhost:8000/assets/js/skel.min.js"></script>
-		<script src="http://localhost:8000/assets/js/util.js"></script>
+		<script src= "{{ asset('assets/js/jquery.min.js') }}"></script>
+		<script src= "{{ asset('assets/js/skel.min.js') }}"></script>
+		<script src= "{{ asset('assets/js/util.js') }}"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-		<script src="http://localhost:8000/assets/js/main.js"></script>
+		<script src= "{{ asset('assets/js/main.js') }}"></script>
 	</head>
 	<body>
 
@@ -27,7 +27,7 @@
 
 							<!-- Header -->
 								<header id="header">
-									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
+									<a href="index" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
 									<ul class="icons">
 										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
@@ -41,8 +41,8 @@
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>Hi, I’m Editorial<br />
-											by HTML5 UP</h1>
+											<h1>Welcome to CareerPath<br />
+											</h1>
 											<p>A free and fully responsive site template</p>
 										</header>
 										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
