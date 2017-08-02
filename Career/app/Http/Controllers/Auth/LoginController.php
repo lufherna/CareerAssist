@@ -18,6 +18,9 @@ class LoginController extends Controller
     |
     */
 
+    // in the code below i changed the protected $redirectTo
+    // it was '/home' first but i changed it to '/index'
+    // in order to login to the user's dashboard 
     use AuthenticatesUsers;
 
     /**
@@ -25,7 +28,7 @@ class LoginController extends Controller
      *
      * @var string
      */
-    protected $redirectTo = '/home';
+    protected $redirectTo = '/index';
 
     /**
      * Create a new controller instance.
