@@ -28,13 +28,14 @@
 							<!-- Header -->
 								<header id="header">
 									<a href="index" class="logo"><strong>CareerPath</strong></a>
-									<ul class="icons">
+									<!-- this code below are for the twitter, fb, SC and IG icons. which aren't necessary for now -->
+									<!-- <ul class="icons">
 										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 										<li><a href="#" class="icon fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
 										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 										<li><a href="#" class="icon fa-medium"><span class="label">Medium</span></a></li>
-									</ul>
+									</ul> -->
 								</header>
 
 							<!-- Banner -->
@@ -55,41 +56,41 @@
 								</section>
 
 							<!-- Section -->
-								<section>
-									<header class="major">
-										<h2>Erat lacinia</h2>
-									</header>
-									<div class="features">
-										<article>
-											<span class="icon fa-diamond"></span>
-											<div class="content">
-												<h3>Portitor ullamcorper</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-										<article>
-											<span class="icon fa-paper-plane"></span>
-											<div class="content">
-												<h3>Sapien veroeros</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-										<article>
-											<span class="icon fa-rocket"></span>
-											<div class="content">
-												<h3>Quam lorem ipsum</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-										<article>
-											<span class="icon fa-signal"></span>
-											<div class="content">
-												<h3>Sed magna finibus</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-									</div>
-								</section>
+							<!-- 	<section>
+								<header class="major">
+									<h2>Random Stuff Below</h2>
+								</header>
+								<div class="features">
+									<article>
+										<span class="icon fa-diamond"></span>
+										<div class="content">
+											<h3>Portitor ullamcorper</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+										</div>
+									</article>
+									<article>
+										<span class="icon fa-paper-plane"></span>
+										<div class="content">
+											<h3>Sapien veroeros</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+										</div>
+									</article>
+									<article>
+										<span class="icon fa-rocket"></span>
+										<div class="content">
+											<h3>Quam lorem ipsum</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+										</div>
+									</article>
+									<article>
+										<span class="icon fa-signal"></span>
+										<div class="content">
+											<h3>Sed magna finibus</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+										</div>
+									</article>
+								</div>
+							</section> -->
 
 							<!-- Section -->
 								<section>
@@ -222,7 +223,7 @@
 								</section>
 
 							<!-- Section -->
-								<section>
+								<!-- <section>
 									<header class="major">
 										<h2>Get in touch</h2>
 									</header>
@@ -233,7 +234,7 @@
 										<li class="fa-home">1234 Somewhere Road #8254<br />
 										Nashville, TN 00000-0000</li>
 									</ul>
-								</section>
+								</section> -->
 
 							<!-- Footer -->
 								<footer id="footer">

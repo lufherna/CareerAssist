@@ -15,6 +15,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+// view to test out the index.blade.php
+Route::get('/index', function () {
+	return view('index');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
