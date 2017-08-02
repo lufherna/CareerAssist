@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Editorial by HTML5 UP</title>
+		<title>CareerPath</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -27,7 +27,7 @@
 
 							<!-- Header -->
 								<header id="header">
-									<a href="index" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
+									<a href="index" class="logo"><strong>CareerPath</strong></a>
 									<ul class="icons">
 										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
@@ -43,15 +43,14 @@
 										<header>
 											<h1>Welcome to CareerPath<br />
 											</h1>
-											<p>A free and fully responsive site template</p>
 										</header>
-										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
+										<p>This site was build with your future career in mind. It was made for the purpose of assisting those who either want a career change, who need guidance as to which career to choose from and the casual browser. We have plenty of useful articles and resources, so please feel free to look around!</p>
 										<ul class="actions">
 											<li><a href="#" class="button big">Learn More</a></li>
 										</ul>
 									</div>
 									<span class="image object">
-										<img src="images/pic10.jpg" alt="" />
+										<img src="images/discussing.jpg" alt="discussingCareers" />
 									</span>
 								</section>
 
