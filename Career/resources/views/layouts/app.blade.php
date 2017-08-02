@@ -12,6 +12,21 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+        <style>
+            body {
+                background-image: url("http://localhost:8000/images/climbingUp.jpg");
+                background-repeat: no-repeat;
+                background-size: 100% 100%;
+                /*background-position:top center;*/
+                background-attachment:fixed;
+                /*background-color: #fff;
+                color: #636b6f;*/
+                font-family: 'Raleway', sans-serif;
+                font-weight: 100;
+                /*height: 100vh;*/
+                margin: 0;
+            } 
+        </style>
 </head>
 <body>
     <div id="app">
@@ -28,9 +43,9 @@
                     </button>
 
                     <!-- Branding Image -->
-                    <a class="navbar-brand" href="{{ url('/') }}">
+                    <!-- <a class="navbar-brand" href="{{ url('/') }}">
                         {{ config('app.name', 'Laravel') }}
-                    </a>
+                    </a> -->
                 </div>
 
                 <div class="collapse navbar-collapse" id="app-navbar-collapse">
