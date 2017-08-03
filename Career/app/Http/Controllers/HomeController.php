@@ -25,5 +25,12 @@ class HomeController extends Controller
     {
         return view('home');
     }
+
+    // this is the web developer link
+
+    public function index2()
+    {
+        return view('webdeveloper');
+    }
 }
 

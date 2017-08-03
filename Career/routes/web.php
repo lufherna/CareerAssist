@@ -20,6 +20,14 @@ Route::get('/index', function () {
 	return view('index');
 });
 
+// testing out the webdeveloper.blade.php
+Route::get('/webdeveloper', function () {
+	return view('webdeveloper');
+});
+
+// view to test out the webdeveloper.blade.php
+Route::get('/webdeveloper', 'HomeController@index2')->name('webdeveloper');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
