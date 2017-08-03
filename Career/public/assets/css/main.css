@@ -3789,9 +3789,9 @@
 
 	#header {
 		display: -moz-flex;
-		display: -webkit-flex;
+		/*display: -webkit-flex;*/
 		display: -ms-flex;
-		display: flex;
+		/*display: flex;*/
 		border-bottom: solid 5px #f56a6a;
 		padding: 6em 0 1em 0;
 		position: relative;
@@ -3815,6 +3815,10 @@
 		#header .icons {
 			text-align: right;
 		}
+		/*this is for the logout button in the index page. change if necessary*/
+		#logoutButton {
+				float:right;
+			}
 
 		@media screen and (max-width: 1680px) {
 

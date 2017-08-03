@@ -15,6 +15,13 @@
 		<script src= "{{ asset('assets/js/util.js') }}"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 		<script src= "{{ asset('assets/js/main.js') }}"></script>
+
+		<style>
+			#logoutButton {
+				float:right;
+			}
+
+		</style>
 	</head>
 	<body>
 
@@ -36,13 +43,36 @@
 										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 										<li><a href="#" class="icon fa-medium"><span class="label">Medium</span></a></li>
 									</ul> -->
+
+									<!-- Right Side Of Navbar -->
+			                        <ul class="nav navbar-nav navbar-right" id = 'logoutButton'>
+			                            <!-- Authentication Links -->
+			                            @if (Auth::guest())
+			                                <li><a href="{{ route('login') }}">Login</a></li>
+			                                <li><a href="{{ route('register') }}">Register</a></li>
+			                            @else
+			                                <!-- <a href="#" aria-expanded="false">
+			                                    {{ Auth::user()->name }} <span class="caret"></span>
+			                                </a> -->
+			                                <!-- code above removes name near the logout button -->
+			                                <a href="{{ route('logout') }}"
+			                                   onclick="event.preventDefault();
+			                                                     document.getElementById('logout-form').submit();">
+			                                    Logout
+			                                </a>
+
+			                                <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+			                                    {{ csrf_field() }}
+			                                </form>
+			                            @endif
+			                        </ul>
 								</header>
 
 							<!-- Banner -->
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>Welcome to CareerPath<br />
+											<h1>Welcome {{ Auth::user()->name }}<br />
 											</h1>
 										</header>
 										<p>This site was build with your future career in mind. It was made for the purpose of assisting those who either want a career change, who need guidance as to which career to choose from and the casual browser. We have plenty of useful articles and resources, so please feel free to look around!</p>
@@ -237,9 +267,9 @@
 								</section> -->
 
 							<!-- Footer -->
-								<footer id="footer">
+								<!-- <footer id="footer">
 									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
-								</footer>
+								</footer> -->
 
 						</div>
 					</div>

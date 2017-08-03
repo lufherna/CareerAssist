@@ -91,7 +91,7 @@
         </div>
         <p class = 'info-text'>
         Helping you start a great career
-        <br>
+        <br />
         Please login or register using the buttons below
         </p>
         <div class="flex-center position-ref full-height">
