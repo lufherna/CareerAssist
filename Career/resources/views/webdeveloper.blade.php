@@ -38,15 +38,24 @@
 									<!-- Content -->
 										<section>
 											<header class="main">
-												<h1>Generic</h1>
+												<h1>Guide To: Web Development</h1>
 											</header>
 
-											<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
+											<span class="image main"><img src="images/html.jpg" alt="" /></span>
 
-											<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-											<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
-
+												<h3>Intro</h3>
+												<p>In this article I'll go on explaining what is a web developer, what they do, simple tools that they use and the options that are available to become one. I'll try to keep it simple and not bore you to death with all the details, just enough to inform you of the options available to learn about the trade and to get you started.</p>
+												
+												<h3>So.....what is a Web Developer?</h3>
+												<p>Imagine going on your favorite website, you know, the one with all the cool features, pretty pictures and nice layouts. Have you ever asked yourself how it works? Why does it look like that? Or, my favorite, "I wish I can change that feature or color". That site you're thinking of looks and functions because a person or a team of people got together, formed an idea and used different programming languages in order to create it. They coordinated who was going to work on the aesthetics and who was going to work on the features that work behind the scenes.</p>
+												<p>There are three kinds of web developers:</p>
+												<ul>
+													<li>Front-End</li>
+													<li>Back-End</li>
+									 				<li>Full-Stack</li>
+									 			</ul> 
+									 			<p>The front-end developers take care of what users see and how the websites feel. They make sure that the website is appealing to the eyes, easy to navigate through and serves the client's purposes. The back-end developer would take care of the website's functionality. Sometimes this means that their responsiblity would be to work on the features that aren't readily seen by everyone. Then, last but not least we have full-stack web developers. These developers have a working knowledge of both front-end and back-end technologies and can work on either roles. This kind of work takes up more training but is great because you have a broader knowledge of the field.</p>
+												
 											<hr class="major" />
 
 											<h2>Interdum sed dapibus</h2>
@@ -58,12 +67,6 @@
 											<h2>Magna etiam veroeros</h2>
 											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
 											<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
-
-											<hr class="major" />
-
-											<h2>Lorem aliquam bibendum</h2>
-											<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
 
 										</section>
 
