@@ -15,6 +15,8 @@
 		<script src= "{{ asset('assets/js/util.js') }}"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 		<script src= "{{ asset('assets/js/main.js') }}"></script>
+		<!-- below is the code for RIOT.js -->
+		<script src="https://cdn.jsdelivr.net/npm/riot@3.6/riot+compiler.min.js"></script>
 
 	</head>
 	<body>
@@ -123,7 +125,7 @@
 									</header>
 									<div class="posts">
 										<article>
-											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+											<a href="{{ route('webdeveloper') }}" class="image"><img src="images/html.jpg" alt="" /></a>
 											<h3>Web Developer? What?</h3>
 											<h4>Technology</h4>
 											<p>In this short, yet informative article, we go in explaining what is a Web Developer, what they do and how this career will be around for a long time.</p>
