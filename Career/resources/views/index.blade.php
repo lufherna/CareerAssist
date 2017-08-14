@@ -127,7 +127,7 @@
 										<article>
 											<a href="{{ route('webdeveloper') }}" class="image"><img src="images/html.jpg" alt="" /></a>
 											<h3>Web Developer? What?</h3>
-											<h4>Technology</h4>
+											<h4>Information Technology</h4>
 											<p>In this short, yet informative article, we go in explaining what is a Web Developer, what they do and how this career will be around for a long time.</p>
 											<ul class="actions">
 												<li><a href="{{ route('webdeveloper') }}" class="button">More</a></li>
@@ -208,7 +208,14 @@
 												<li><a href="#">Favorite Career 4</a></li>
 											</ul>
 										</li>
-										<li><a href="#">Articles</a></li>
+										<li>
+											<span class = 'opener'> Subjects</span>
+											<ul>
+												<li><a href = '#'>Information Technology</a></li>
+												<li><a href = '#'>Criminal Justice</a></li>
+												<li><a href = '#'>Medical</a></li>
+											</ul>
+										</li>
 										<li><a href="#">Technology</a></li>
 									<!-- 	<li>
 										<span class="opener">Another Submenu</span>

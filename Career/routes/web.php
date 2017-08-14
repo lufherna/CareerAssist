@@ -25,6 +25,11 @@ Route::get('/webdeveloper', function () {
 	return view('webdeveloper');
 });
 
+// testing out the nursing.blade.php
+/*Route::get('/nursing', function () {
+	return view('nursing');
+});*/
+
 // view to test out the webdeveloper.blade.php
 Route::get('/webdeveloper', 'HomeController@index2')->name('webdeveloper');
 
