@@ -12,7 +12,10 @@
 				<script src= "{{ asset('assets/js/skel.min.js') }}"></script>
 				<script src= "{{ asset('assets/js/util.js') }}"></script>
 				<!-- 	[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif] -->
-				<script src= "{{ asset('assets/js/main.js') }}"></script>
+				<script src = "{{ asset('assets/js/main.js') }}"></script>
+				<!-- this code below is for the charts being used in this page -->
+				<!-- <script src = "{{ asset('assets/js/charts.js') }}"></script> -->
+				<script src = "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.js"></script>
 			</head>
 			<body>
 
@@ -91,7 +94,17 @@
 												<li>Coding Bootcamps</li>
 												<li>Self-Study</li>
 											</ul>
-											<p>Both of these ways have their own pros and cons. Another factor to take in consideration is cost but we'll show you a chart with all that data. Depending on what is your learning style one way will work better than another, but that is completely up to you and your preference.</p>
+											<p>Both of these paths have their own pros and cons. Another factor to take in consideration is cost but we'll show you a chart with all that data later on. Depending on what is your learning style one way will work better than another, but that is completely up to you and your preference. Let us begin by talking about the Coding Bootcamp Programs</p>
+											<p>Coding Bootcamps are an amazing source of instruction and support. You have an instructor, teacher assistants and other resources to help you grasp the programming concepts. Depending on where you live there are several options available. Below are some of the pros of choosing a coding bootcamp: 
+												<ul>
+													<li><strong>Bootcamps provide an end-to-end organized structure.</strong> The content some online learning programs offer is becoming more and more extensive and organized, but there still isn't a comprehensive learning plan. Bootcamps, on the other hand, would have developed their curriculum with one thing in mind: starting your career off as a web developer.</li>
+													<li><strong>You readily have access to industry experts.</strong> Even the brightest people get stuck at some point and the exact moment in which they get stuck differs greatly. Having someone nearby to help you right away is invaluable. You'll have an instructor and possibly teacher assistants to provide you the help you need. Some coding programs also offer free tutoring! So take advantage of the resources available to you.</li>
+													<li><strong>You are surrounded by like-minded people.</strong> If you plan on simply attending lectures, working on projects by yourself and only interacting with your peers when you are forced to, perhaps bootcamps are not for you. Interacting with your peers will not only keep your interest and commitment to learning high, it will also help you a lot with actual course content. In my experience you're surrounded by very intelligent people, they are also learning but they don't mind sharing their knowledge with you. It's an awesome resource to have and it keeps you motivated.</li>
+													<li><strong>You get alumni support.</strong> Bootcamps usually have great relationships with technology companies in the area they are located in. Also, Your success helps their business. There is a natural alignment of interest. Some bootcamps don't guarantee a job after you finish, but they will at least be able to provide you with administrative support post-graduation.</li>
+												</ul> 
+
+											<canvas id="myChart" width="400px" height="150px"></canvas>
+											<script src = "{{ asset('assets/js/charts.js') }}"></script>
 
 											<hr class="major" />
 
