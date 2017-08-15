@@ -62,7 +62,7 @@
 									<!-- Content -->
 									<section>
 										<header class="main">
-												<h1>Guide To: Web Development</h1>
+												<h1>Starter's Guide To: Web Development</h1>
 										</header>
 
 										<span class="image main"> <img src="images/html.jpg" alt="web Development" /></span>
@@ -80,15 +80,16 @@
 									 			</ul> 
 									 			<p>A front-end developer takes care of what users see and how the websites feel. They make sure that the website is appealing to the eyes, easy to navigate through and serves the client's purposes. A bit of UX/UI (to learn more about UX/UI design, click here) experience is a plus when designing great looking sites, but it isn't required.</p>
 									 			<p>A back-end web developer is responsible for server-side web application logic and integration of the work front-end web developers do. Back-end developers usually write web services and APIs used by front-end developers and mobile application developers. Sometimes this means that their responsiblity would be to work on the features that aren't readily seen by everyone. Some would agree with me that back-end developers have the higher of the salaries when compared to front-end developers. Hope the front-end guys don't beat me up.</p>
-									 			<p> Then, last but not least we have full-stack web developers. These developers have a working knowledge of both front-end and back-end technologies and can work on either roles. This kind of work takes up more training but is great because you have a broader knowledge of the field.</p>
+									 			<p> Then, last but not least we have full-stack web developers. These developers aren’t experts at everything; they simply have a functional knowledge and ability to take a concept and turn it into a finished product. Such experts make building apps much easier as they understand how everything works from top to bottom and can anticipate problems accordingly. It takes a good amount of work experience in different languages, roles, and industries to reach this level of qualification. Because of this, full stack developers are few and far between, making those who exist very employable and in-demand. Now let's talk about what training options are available.
+									 			</p>
 												
 											<hr class="major" />
 
 											<h3>Training Options</h3>
 											<p>So now you know what kind of developers exist and what the roles are, awesome! Now let's talk about how to get there. The two most common ways are:</p>
 											<ul>
-												<li>Coding Bootcamp Programs</li>
-												<li>Self-Teaching</li>
+												<li>Coding Bootcamps</li>
+												<li>Self-Study</li>
 											</ul>
 											<p>Both of these ways have their own pros and cons. Another factor to take in consideration is cost but we'll show you a chart with all that data. Depending on what is your learning style one way will work better than another, but that is completely up to you and your preference.</p>
 
