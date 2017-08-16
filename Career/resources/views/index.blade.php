@@ -71,7 +71,7 @@
 											<h1>Welcome {{ Auth::user()->name }}<br />
 											</h1>
 										</header>
-										<p>This site was build with your future career in mind. It was made for the purpose of assisting those who either want a career change, who need guidance as to which career to choose from and the casual browser. We have plenty of useful articles and resources, so please feel free to look around!</p>
+										<p>This site was built with your future career in mind. It was made for the purpose of assisting those who either want a career change, who need guidance as to which career to choose from and the casual browser. We have plenty of useful articles and resources, so please feel free to look around!</p>
 										<ul class="actions">
 											<li><a href="#" class="button big">Learn More</a></li>
 										</ul>

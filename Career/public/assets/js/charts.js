@@ -2,10 +2,10 @@
 new Chart(document.getElementById('myChart'), {
     type: 'bar',
     data: {
-        labels: ["Red", "Blue", "Yellow", "Green", "Purple"],
+        labels: ["UCF Coding Bootcamp", "Hack Reactor", "App Academy", "Bloc", "General Assembly"],
         datasets: [{
-            label: '# of Votes',
-            data: [12, 19, 3, 5, 2, 3],
+            label: 'Cost of Program',
+            data: [9500, 17780, 5000, 8800, 14950],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(54, 162, 235, 0.2)',

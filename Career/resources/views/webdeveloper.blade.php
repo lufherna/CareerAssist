@@ -102,9 +102,45 @@
 													<li><strong>You are surrounded by like-minded people.</strong> If you plan on simply attending lectures, working on projects by yourself and only interacting with your peers when you are forced to, perhaps bootcamps are not for you. Interacting with your peers will not only keep your interest and commitment to learning high, it will also help you a lot with actual course content. In my experience you're surrounded by very intelligent people, they are also learning but they don't mind sharing their knowledge with you. It's an awesome resource to have and it keeps you motivated.</li>
 													<li><strong>You get alumni support.</strong> Bootcamps usually have great relationships with technology companies in the area they are located in. Also, Your success helps their business. There is a natural alignment of interest. Some bootcamps don't guarantee a job after you finish, but they will at least be able to provide you with administrative support post-graduation.</li>
 												</ul> 
+											<p>Ok, ok you may be thinking, "This looks great and all but how much are these programs?". The prices differ depending on the program. Just to give you an idea below are five bootcamp options available. As mentioned before, some options are based off location so you'll have to check what options are located near you.</p> 
 
 											<canvas id="myChart" width="400px" height="150px"></canvas>
 											<script src = "{{ asset('assets/js/charts.js') }}"></script>
+
+											<p>Hope your head isn't spinning too much with these numbers. Of course these programs are just some of the several that are available, so you would have to do some additional research in order to see which are available in your area. What are these programs about? Here's a brief description along with Course Report's rating: 
+												<ul>	
+													<li><strong>UCF Coding Boot Camps</strong> are 12-week, full-time and 24-week, part-time Web Development courses Sanford and Orlando, FL. The full-stack curriculum includes HTML5, CSS3, JavaScript, jQuery, Node.js, PHP, Responsive Design, Heroku, Git, User Authentication, React.js, MySQL, MongoDB, and more. Applicants do not need programming experience to enroll, but once admitted, all students will complete a pre-course tutorial. UCF Coding Boot Camp is designed for students and professionals or who are actively pursuing a career change, advancement, or are looking to learn a new skill.<br>
+													<strong>Course Report rating: 4.2 out of 5.</strong>
+													To read the full review click <a href = "https://www.coursereport.com/schools/ucf-coding-boot-camp" target = "_blank">here</a>
+													</li>
+													
+													<br />
+													<li>During the first six weeks at <strong>Hack Reactor</strong>, students learn the fundamentals of development, JavaScript and are introduced to developer tools and technologies. In the final six weeks, students work on both personal and group projects. Job preparation is integrated into the curriculum, and students will build an online presence, resume and LinkedIn profile by graduation. Hack Reactor is self-admittedly not a "0 to 60" course, it is instead a "20 to 120" course and expects successful applicants to have some background in coding (either professional or self-taught). Boasting a 98% graduate hiring rate, Hack Reactor places alumni in mid-to-senior level positions at companies in tech, including Google, Salesforce & Microsoft, with an average graduate salary of $104K.<br>
+													<strong>Course Report rating: 4.53 out of 5.</strong>
+													To read the full review click <a href ='https://www.coursereport.com/schools/hack-reactor' target = "_blank">here</a>
+													</li>
+
+													<br />
+													<li><strong>App Academy</strong> is an immersive 12-week Ruby-focused web development course with campuses in San Francisco and New York City. Students interested in this intense program should expect to put in 90-100 hours per week. The first 9 weeks of the course are focused on learning web development skills in multiple languages, and the following 3 weeks are a robust job-search curriculum focusing on algorithms, interview skills, and other technical interview focused skill sets. Upon graduation, students will have a portfolio of real-world projects to show to prospective employers. App Academy’s curriculum is largely based upon a hands-on approach; students spend about 90% of their time pair programming and 10% in lectures, encouraging the sharing of knowledge while also making coding more social. App Academy has a full stack curriculum covering Ruby on Rails, Javascript, HTML/CSS, SQL, algorithms, data structures, and React/Redux.<br>
+													<strong>Course Report rating: 4.67 out of 5.</strong>
+													To read the full review click <a href = "https://www.coursereport.com/schools/app-academy" target = "_blank">here</a>
+													</li>
+
+													<br />
+													<li><strong>Bloc</strong> is an <strong>online</strong> coding bootcamp that incorporates 1-on-1 mentorship to prepare each student for a career as a professional software engineer. Bloc's apprenticeship approach is tailored specifically to each student's learning needs. Not everyone can quit their job or move to a new city for a bootcamp, so Bloc has designed a comprehensive bootcamp with this in mind. Students can enroll full-time, or complete the program at a part-time pace. With Bloc, a dedicated mentor will provide 1-on-1 instruction to clarify concepts and pair program with each student.<br>
+													<strong>Course Report rating: 4.68 out of 5.</strong>
+													To read the full review click <a href = "https://www.coursereport.com/schools/bloc" target = "_blank">here</a>
+													</li>
+
+													<br />
+													<li><strong>General Assembly</strong> offers courses in web and mobile development, product management, data science and more, online and in-person, across 15 campuses in 4 continents. Focusing on the most relevant and in-demand skills across data, design, business and technology, General Assembly is confronting a skills gap through best-in-class instruction and providing access to opportunities in tech. General Assembly works with students online and in-person across 15 campuses in 4 continents. General Assembly offers a breadth of different course offerings and classes range from full-time immersive courses for learners that want to switch to a new career, to part-time courses for learners that are looking to improve their career trajectory by acquiring a new skill set, and mentor-led online circuits for a more flexible way to acquire foundational skills.<br>
+													<strong>Course Report rating: 4.19 out of 5.</strong>
+													To read the full review click <a href = "https://www.coursereport.com/schools/general-assembly" target = '_blank'>here</a>
+													</li>
+
+												</ul>
+
+											<p>As mentioned before there are many options out there for you. Make sure you read the reviews, and do research in order to find out which bootcamp is right for you. Pricing and scheduling may vary depending on what your needs are and what you're pursuing so before you jump on a bootcamp, learn about it</p>
 
 											<hr class="major" />
 
