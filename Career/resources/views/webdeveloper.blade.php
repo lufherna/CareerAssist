@@ -65,13 +65,13 @@
 									<!-- Content -->
 									<section>
 										<header class="main">
-												<h1>Starter's Guide To: Web Development</h1>
+												<h1>Starter's Guide To: Web Development (Part 1)</h1>
 										</header>
 
 										<span class="image main"> <img src="images/html.jpg" alt="web Development" /></span>
 
 											<h3>Intro</h3>
-												<p>In this article I'll go on explaining what is a web developer, what they do, simple tools that they use and the options that are available to become one. I'll try to keep it simple and not bore you to death with all the details, just enough to inform you of the options available to learn about the trade and to get you started.</p>
+												<p>In this two part article I'll go on explaining what is a web developer, what they do, and one of the several options that is available to become one. I'll try to keep it simple and not bore you to death with all the details, just enough to inform you of the options available to learn about the trade and to get you started.</p>
 												
 												<h3>So.....what is a Web Developer?</h3>
 												<p>Imagine going on your favorite website, you know, the one with all the cool features, pretty pictures and nice layouts. Have you ever asked yourself how it works? Why does it look like that? Or, my favorite, "I wish I can change that feature or color". That site you're thinking of looks and functions because a person or a team of people got together, formed an idea and used different programming languages in order to create it. They coordinated who was going to work on the aesthetics and who was going to work on the features that work behind the scenes.</p>
@@ -142,11 +142,8 @@
 
 											<p>As mentioned before there are many options out there for you. Make sure you read the reviews, and do research in order to find out which bootcamp is right for you. Pricing and scheduling may vary depending on what your needs are and what you're pursuing so before you jump on a bootcamp, learn about it</p>
 
-											<hr class="major" />
-
-											<h2>Magna etiam veroeros</h2>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-											<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+											<h3>Conclusion</h3>
+											<p>In conclusion this article was made to simply explain what a Web Developer is, what they do and how a bootcamp can help you achieve this career path. In my next article I'll provide a closer look of how to do self-study, it's pros/cons and some additional resources for it. Stay tuned!</p>
 
 										</section>
 
